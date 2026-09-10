@@ -10,7 +10,7 @@ Each block starts with standalone questions you can ask on a fresh workspace.
 Lines marked "follow-up" assume you asked the question above them first, in
 the same chat.
 
-## olist_late_fixture.parquet
+## olist_late_fixture.csv
 Brazilian e-commerce orders, one row per order, with whether it arrived late.
 Source: Olist on Kaggle, CC BY-NC-SA 4.0, reshaped into one table.
 
